@@ -108,9 +108,7 @@ String data = new String(dataFromServer , 0, readCount , "UTF-8");
 inputStreamForClient.close();
 outputStreamForClient.close();
 ```
-
 [참고 블로그]([https://wonos.tistory.com/388](https://wonos.tistory.com/388))
-
 [참고 블로그]([https://coding-factory.tistory.com/270](https://coding-factory.tistory.com/270))
 
 그럼 이 과정이 어떻게 서버와 클라이언트의 시스템에서 소켓 통신을 가능하게 해주는지 알기 위해 예시로 ServerSocket의 `accept()` 메서드를 열어보았습니다.
