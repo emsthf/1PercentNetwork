@@ -36,16 +36,11 @@ OS의 소켓 라이브러리는 구현체마다 상이 할 수 있겠지만 보�
 출처 : [https://gnutec.net/socket-programming-in-php-part-2/socket-programming/](https://gnutec.net/socket-programming-in-php-part-2/socket-programming/)
 
 ## **TCP Socket[¶](https://os.mbed.com/handbook/Socket#tcp-socket)**
-
-## UD**P Socket[¶](https://os.mbed.com/handbook/Socket#tcp-socket)**
-
 ![출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)](img/Socket%20Library%20with%20JDK/Untitled%201.png)
 
-출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)
-
+## UD**P Socket[¶](https://os.mbed.com/handbook/Socket#tcp-socket)**
 ![출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)](img/Socket%20Library%20with%20JDK/Untitled%202.png)
 
-출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)
 
 TCP 소켓 기준으로 설명하겠습니다.
 
