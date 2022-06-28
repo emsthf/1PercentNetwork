@@ -36,16 +36,11 @@ OS의 소켓 라이브러리는 구현체마다 상이 할 수 있겠지만 보�
 출처 : [https://gnutec.net/socket-programming-in-php-part-2/socket-programming/](https://gnutec.net/socket-programming-in-php-part-2/socket-programming/)
 
 ## **TCP Socket[¶](https://os.mbed.com/handbook/Socket#tcp-socket)**
-
-## UD**P Socket[¶](https://os.mbed.com/handbook/Socket#tcp-socket)**
-
 ![출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)](img/Socket%20Library%20with%20JDK/Untitled%201.png)
 
-출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)
-
+## UD**P Socket[¶](https://os.mbed.com/handbook/Socket#tcp-socket)**
 ![출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)](img/Socket%20Library%20with%20JDK/Untitled%202.png)
 
-출처 : [https://os.mbed.com/handbook/Socket](https://os.mbed.com/handbook/Socket)
 
 TCP 소켓 기준으로 설명하겠습니다.
 
@@ -114,9 +109,9 @@ inputStreamForClient.close();
 outputStreamForClient.close();
 ```
 
-[참고 블로그]([https://wonos.tistory.com/388](https://wonos.tistory.com/388))
+[참고 블로그](https://wonos.tistory.com/388)
 
-[참고 블로그]([https://coding-factory.tistory.com/270](https://coding-factory.tistory.com/270))
+[참고 블로그](https://coding-factory.tistory.com/270)
 
 그럼 이 과정이 어떻게 서버와 클라이언트의 시스템에서 소켓 통신을 가능하게 해주는지 알기 위해 예시로 ServerSocket의 `accept()` 메서드를 열어보았습니다.
 
